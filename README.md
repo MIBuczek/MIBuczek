@@ -21,9 +21,15 @@
 </div>
 
 
-### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MIBuczek&theme=dark&background=000000)](https://git.io/streak-stats)
-
+### :fire: Stats and Top langs:
+<div>
+  <div width="50%">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MIBuczek&theme=dark&background=000000)](https://git.io/streak-stats)
+  </div>
+  <div width="50%">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIBuczek&layout=compact&theme=vision-friendly-dark)]    (https://github.com/anuraghazra/github-readme-stats)
+  </div>
+<div>
 <!--
 **MIBuczek/MIBuczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
