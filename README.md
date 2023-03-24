@@ -1,6 +1,16 @@
-### About me 👋
+### :woman_technologist: About Me :
+
+- :telescope: I’m working as a Senior Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content of Node.js and try to be security policy expert.
+
+- :zap: In my free time, I write my own small project and spend my time with family.
+
+- :mailbox:How to reach me: 
+    * [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miczelbuczek/)
 
 ### :hammer_and_wrench: Tech stack :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
@@ -23,7 +33,9 @@
 
 ### :fire: Stats and Top langs:
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MIBuczek&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIBuczek&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
