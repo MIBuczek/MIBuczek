@@ -7,7 +7,7 @@
 - :zap: In my free time, I write my own small project and spend my time with family.
 
 - :mailbox:How to reach me: 
-    * [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miczelbuczek/)
+    * [![Linkedin Badge](https://img.shields.io/badge/-michalbuczek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miczelbuczek/)
 
 ### :hammer_and_wrench: Tech stack :
 
